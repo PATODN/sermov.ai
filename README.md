@@ -1,7 +1,7 @@
 # sermov.ai
 IA que recomienda series y películas en base a las gustos y preferencias del usuario.
 # Resumen
-Para todas aquellas personas que a la hora de ver series y películas a veces se encuentran indecisos a la hora de elegir que ver ante tanta oferta de muchísimas plataformas de streaming disponibles en la actualidad, sermov.ai te recomendara las series y películas que más se adapten a tus preferencias. "Proyecto del curso building AI"
+Para todas aquellas personas que a la hora de ver series y películas a veces se encuentran indecisos para elegir que ver ante tanta oferta de muchísimas plataformas de streaming disponibles en la actualidad, sermov.ai te recomendará las series y películas que más se adapten a tus preferencias. "Proyecto del curso building AI"
 # Fondo
 Usualmente las plataformas de streaming suelen dar ciertas recomendaciones, pero estas no suelen ser siempre tan precisas y a su vez son limitadas porque cada una de las plataformas recomienda en base a la suya propia. Sermov.ai recopila las series y películas de todas las plataformas para recomendar las mejores para cada usuario. 
 # ¿Cómo se usa?
