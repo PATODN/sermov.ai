@@ -5,7 +5,6 @@ IA que recomienda series y películas en base a las gustos y preferencias del us
 Proyecto del curso construyendo AI
 
  ## Resumen
-
 Para todas aquellas personas que a la hora de ver series y películas a veces se encuentran indecisos para elegir que ver ante tanta oferta de muchísimas plataformas de streaming disponibles en la actualidad, sermov.ai te recomendará las series y películas que más se adapten a tus preferencias.
 
 ## Fondo
