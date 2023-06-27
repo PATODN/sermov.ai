@@ -13,4 +13,4 @@ sermov.ai contará con los datos de todas las plataformas de streaming disponibl
 # Desafíos
 sermov.ai necesitará mantenerse actualizado debido a la gran cantidad de series y películas nuevas que se van agregando a las diferentes plataformas de streaming con bastante frecuencia.
 # ¿Qué sigue?
-Convocar a un grupo de programadores y todas las personas que sean necesarias para darle forma al proyecto y ponerlo a prueba para poder comprobar que resultado tiene y cual es el grado de satisfacción que obtendrán los usuarios con esta nueva herramienta de IA.
+Convocar a un grupo de programadores y todas las personas que sean necesarias para darle forma al proyecto y ponerlo a prueba para poder comprobar qué resultado tiene y cuál es el grado de satisfacción que obtendrán los usuarios con esta nueva herramienta de IA.
